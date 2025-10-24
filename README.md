@@ -240,6 +240,6 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lorenzozero.Lorenzozero&left_color=purple&right_color=cyan&left_text=LIVES%20TRANSFORMED)
 
-*Crafted with ❤️ and ☕ in Campodarsego, Italy*
+*Crafted with ❤️ and ☕, Italy*
 
 </div>
