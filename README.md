@@ -1,109 +1,103 @@
 ```
-██╗      ██████╗ ██████╗ ███████╗███╗   ███╗███████╗ ██████╗ 
-██║     ██╔═══██╗██╔══██╗██╔════╝████╗ ████║╚══███╔╝██╔═══██╗
-██║     ██║   ██║███████╔╝█████╗  ██╔████╔██║  ███╔╝ ██║   ██║
-██║     ██║   ██║██╔══██╗██╔══╝  ██║╚██╔╝██║ ███╔╝  ██║   ██║
-███████╗╚██████╔╝██║  ██║███████╗██║ ╚═╝ ██║███████╗╚██████╔╝
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝ ╚═════╝ 
+██▌      ██████▐ ██████▐ ███████▌███   ███▌███████▐ ██████▐ 
+██▌     ██▒▒▒▒██▐██▒▒██▐██▒▒▒▒▒▌████ ████▌▒▒███▒▒▌██▒▒▒▒██▐
+██▌     ██▌   ██▐███████▒▌██████▐  ██▒████▒██▌  ███▒▌ ██▌   ██▌
+██▌     ██▌   ██▐██▒▒██▐██▒▒▒▌  ██▌▒██▒██▌ ███▒▌  ██▌   ██▌
+███████▐▒██████▒▌██▌  ██▌███████▐██▌ ▒▒ ██▌███████▐▒██████▒▌
+▒▒▒▒▒▒▒▌ ▒▒▒▒▒▒▌ ▒▒▌  ▒▒▌▒▒▒▒▒▒▒▌▒▒▌     ▒▒▌▒▒▒▒▒▒▒▌ ▒▒▒▒▒▒▌ 
 ```
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&height=70&lines=Cybersecurity+Specialist;AI+%26+Automation+Engineer;Digital+Transparency+Advocate;Life+Simplification+Expert)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=800&height=70&lines=Cybersecurity+Specialist+%F0%9F%94%90;AI+%26+Automation+Wizard+%F0%9F%A4%96;Digital+Life+Simplifier+%E2%9C%A8;Innovation+Through+Code+%F0%9F%9A%80)
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" height="300"/>
 
-[![Matrix](https://img.shields.io/badge/ENTERING_THE_MATRIX-00FF41?style=for-the-badge&logo=matrix&logoColor=black)]()
-[![AI Powered](https://img.shields.io/badge/AI_POWERED-FF6B35?style=for-the-badge&logo=openai&logoColor=white)]()
-[![Automation Expert](https://img.shields.io/badge/AUTOMATION_EXPERT-0D1117?style=for-the-badge&logo=zapier&logoColor=white)]()
+[![Matrix](https://img.shields.io/badge/DIGITAL_GUARDIAN-00FF41?style=for-the-badge&logo=matrix&logoColor=black&labelColor=0D1117)](https://github.com/Lorenzozero)
+[![Innovation](https://img.shields.io/badge/AI_INNOVATOR-FF6B35?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)](https://github.com/Lorenzozero)
+[![Automation](https://img.shields.io/badge/LIFE_SIMPLIFIER-9D4EDD?style=for-the-badge&logo=zapier&logoColor=white&labelColor=0D1117)](https://github.com/Lorenzozero)
 
 </div>
 
 ---
 
 ```ascii
-    ┌──────────────────────────────────────────────────────┐
-    │  > whoami                                            │
-    │  Lorenzo Garoffolo                                   │
-    │  > cat mission.txt                                   │
-    │  "Bringing transparency and simplicity to every     │
-    │   digital interaction. Making complex technology    │
-    │   accessible to everyone I meet."                   │
-    │  > pwd                                               │
-    │  /home/digital_guardian/unox_spa/transparency_hub    │
-    └──────────────────────────────────────────────────────┘
+    ┌──────────────────────────────────────────────────────────────┐
+    │  > whoami                                                    │
+    │  Lorenzo Garoffolo - Digital Transformation Catalyst         │
+    │  > cat ~/.mission                                            │
+    │  "Turning complex technology into delightful experiences.    │
+    │   Making AI accessible, security transparent, and            │
+    │   automation effortless for every human I encounter."       │
+    │  > pwd                                                       │
+    │  /home/lorenzo/innovation_lab/unox_spa/digital_transformation │
+    └──────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-### 🔥 **[DIGITAL TRANSFORMER]** - SECURITY • AI • AUTOMATION 🔥
+### 🔥 **[DIGITAL ALCHEMIST]** - Transforming Bits into Better Lives 🔥
 
-*`root@innovation:~# Securing systems while democratizing technology`*
+*`root@secure-future:~# Where cybersecurity meets human-centered innovation`*
+
+</div>
+
+<div align="center">
+
+> *"In cybersecurity, we don't just build walls - we architect trust.  
+> Every vulnerability we find today prevents a crisis tomorrow.  
+> Security isn't about fear, it's about enabling fearless innovation."*  
+> **— Lorenzo's Security Philosophy**
 
 </div>
 
 ```
-   ╔══════════════════════════════════════════╗
-   ║       🎯 MISSION PROFILE 🎯              ║
-   ║                                          ║
-   ║  Identity: Lorenzo Garoffolo             ║
-   ║  Role: Cyber Guardian & AI Innovator     ║
-   ║  Mission: Digital Transparency           ║
-   ║  Passion: Life Simplification            ║
-   ║  Status: TRANSFORMING LIVES 🚀           ║
-   ║  Impact Level: MAXIMUM 🔴                ║
-   ╚══════════════════════════════════════════╝
+   ╔══════════════════════════════════════════════════════════════╗
+   ║               🎯 DIGITAL IDENTITY MATRIX 🎯               ║
+   ║                                                              ║
+   ║  Name: Lorenzo Garoffolo                                     ║
+   ║  Role: Cyber Guardian & Innovation Architect                 ║
+   ║  Superpower: Making Complex Tech Feel Simple 🪄              ║
+   ║  Location: Campodarsego, Italy 🇮🇹                           ║
+   ║  Status: ONLINE & Crafting Digital Magic ✨                  ║
+   ║  Impact Level: TRANSFORMATIONAL 🌟                          ║
+   ╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-## ⚡ **DIGITAL ARSENAL** ⚡
+## ⚡ **MY DIGITAL SUPERPOWERS** ⚡
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa6ce04f93c" width="400">
 
 </div>
 
 ### 🛡️ **CYBERSECURITY FORTRESS**
-```bash
-#!/bin/bash
-# Digital Defense Systems
-penetration_testing="🎯 Vulnerability Assessment & Exploitation"
-red_teaming="🏴‍☠️ Advanced Persistent Threat Simulation"
-soc_management="🏰 Security Operations Center Leadership"
-incident_response="🚨 Real-time Threat Mitigation"
-compliance="📋 ISO27001 • GDPR • Enterprise Security"
-```
+*Building digital trust, one secure system at a time*
 
-### 🤖 **AI & AUTOMATION REVOLUTION**
-```python
-class LifeSimplifier:
-    def __init__(self):
-        self.ai_integration = "🧠 Intelligent Process Automation"
-        self.workflow_optimization = "⚙️ n8n Multi-Agent Orchestration"
-        self.business_intelligence = "📊 Predictive Analytics & Insights"
-        self.user_experience = "✨ Transparency Through Technology"
-        self.accessibility = "🌍 Making Complex Simple for Everyone"
-        
-    def transform_lives(self):
-        return "Every automation created = More time for human connection"
-```
-
-### 💻 **DEVELOPMENT ECOSYSTEM**
 <div align="center">
 
-```
-    ┌────────────────┬────────────────────┐
-    │ LANGUAGES      │ AI & AUTOMATION    │
-    ├────────────────┼────────────────────┤
-    │ Python 🐍      │ OpenAI API 🧠      │
-    │ PHP 🔧         │ n8n Workflows ⚡   │
-    │ JavaScript ⚙️  │ LangChain 🔗       │
-    │ PowerShell 💙  │ TensorFlow 🤖      │
-    │ SQL 📊         │ Zapier Connect 🌐  │
-    └────────────────┴────────────────────┘
-```
+🎯 **Penetration Testing** | 🏰 **SOC Leadership** | 🚨 **Incident Response**  
+🔍 **OSINT Intelligence** | 📋 **Compliance Mastery** | ⚡ **Real-time Threat Hunting**
 
-<img src="https://skillicons.dev/icons?i=python,php,js,powershell,tensorflow,docker,azure,postgres,mongodb,git&perline=5" />
+</div>
+
+### 🤖 **AI & AUTOMATION MAGIC**
+*Where artificial intelligence meets human intuition*
+
+<div align="center">
+
+🧠 **Machine Learning** | ⚙️ **Workflow Orchestration** | 📊 **Predictive Analytics**  
+🔗 **API Integration** | 🌐 **Multi-Agent Systems** | ✨ **Process Optimization**
+
+</div>
+
+### 💻 **FULL-STACK WIZARDRY**
+*Crafting digital experiences that just work*
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,php,js,typescript,react,nextjs,django,laravel,docker,azure,postgresql,mongodb&perline=6" />
 
 </div>
 
@@ -111,120 +105,163 @@ class LifeSimplifier:
 
 <div align="center">
 
-## 🚀 **INNOVATION PROJECTS** 🚀
+## 🚀 **INNOVATION SHOWCASE** 🚀
+
+*Where ideas become reality and complexity becomes clarity*
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
 
 </div>
 
-### 📅 **[PLANICA](https://github.com/Lorenzozero/planica) - Smart Calendar Revolution**
-```yaml
-Vision: "Transforming how teams collaborate through time"
-Technology Stack:
-  - Frontend: Modern Web Interface with Real-time Updates
-  - Backend: Scalable API Architecture
-  - AI Features: Intelligent Scheduling & Conflict Resolution
-  - Integration: Multi-platform Calendar Synchronization
-Impact: 
-  - 🎯 Eliminates scheduling conflicts through AI prediction
-  - 🤝 Simplifies team coordination with transparent workflows
-  - ⚡ Reduces meeting overhead by 60% through automation
-Status: 🔄 Active Development | Next: AI-powered meeting optimization
-```
+<table>
+<tr>
+<td width="50%">
 
-### 💪 **[SICKFITPRO](https://github.com/Lorenzozero/sickfitpro) - Wellness Democracy**
-```yaml
-Vision: "Making fitness accessible and transparent for everyone"
-Technology Stack:
-  - Mobile-First: Progressive Web Application
-  - AI Engine: Personalized Workout Generation
-  - Gamification: Achievement-based Motivation System
-  - Analytics: Progress Tracking with Predictive Insights
-Impact:
-  - 🏃‍♂️ Democratizes personal training through AI coaching
-  - 📈 Transparent progress tracking without complexity  
-  - 🎮 Gamification makes fitness enjoyable for beginners
-  - 💡 AI suggests optimal routines based on real data
-Status: 🚀 Beta Release | Next: Community features & social challenges
-```
+### 📅 [**PLANICA**](https://github.com/Lorenzozero/planica)
+**Smart Calendar Revolution**
 
-### 🏢 **[ENTERPRISE AUTOMATION SUITE] - Business Transparency**
-```yaml
-Vision: "Removing friction from every business process"
-Technology Stack:
-  - Workflow Engine: n8n Multi-Agent Architecture
-  - AI Integration: GPT-4 & Custom Models
-  - Data Pipeline: Real-time Analytics Dashboard
-  - Security: Zero-trust Implementation
-Impact:
-  - ⚡ Automates 80% of repetitive tasks at Unox S.p.A
-  - 📊 Real-time business insights through transparent dashboards
-  - 🔐 Maintains security while increasing accessibility
-  - 👥 Empowers employees with self-service capabilities
-Status: 🎯 Production | Next: Multi-tenant SaaS platform
-```
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="60"/>
+</div>
 
-### 🤖 **[AI TRANSPARENCY TOOLS] - Making AI Understandable**
-```yaml
-Vision: "Demystifying AI for everyday users"
-Technology Stack:
-  - Natural Language Processing: User-friendly AI explanations
-  - Visual Interfaces: No-code AI workflow builders
-  - Educational Tools: Interactive AI learning experiences
-  - Ethics Engine: Transparent AI decision-making
-Impact:
-  - 🧠 Makes AI accessible to non-technical users
-  - 📚 Educational tools for AI literacy
-  - 🔍 Transparent AI decision processes
-  - 🌍 Bridges the digital divide through simplification
-Status: 🔬 Research & Development | Next: Public release of AI education platform
-```
+**🎯 Vision**: Transforming team collaboration through intelligent scheduling
+
+**✨ Magic Features**:
+- 🤖 AI-powered conflict resolution  
+- 🔄 Real-time multi-platform sync
+- 📊 Smart meeting optimization
+- 🎨 Intuitive user experience
+
+**💫 Impact**: *60% reduction in scheduling overhead*
+
+**🚀 Status**: Active Development → AI enhancement phase
+
+</td>
+<td width="50%">
+
+### 💪 [**SICKFITPRO**](https://github.com/Lorenzozero/sickfitpro)
+**Wellness Democracy Platform**
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1c98474-9b13-4d8e-a3cc-4e78c7f184ec" width="60"/>
+</div>
+
+**🎯 Vision**: Making fitness accessible and enjoyable for everyone
+
+**✨ Magic Features**:
+- 🧠 Personalized AI coaching
+- 🎮 Gamified progress tracking
+- 📈 Transparent analytics
+- 🤝 Community challenges
+
+**💫 Impact**: *Democratizing personal training through technology*
+
+**🚀 Status**: Beta Release → Community features rollout
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 **ENTERPRISE AUTOMATION**
+**Business Process Revolution**
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e81f7e75-8942-4e75-b0c1-d31a19af6e8d" width="60"/>
+</div>
+
+**🎯 Vision**: Removing friction from every business workflow
+
+**✨ Magic Features**:
+- 🔄 n8n multi-agent orchestration
+- 📊 Real-time business intelligence  
+- 🔐 Zero-trust security architecture
+- 👥 Employee self-service portals
+
+**💫 Impact**: *80% automation of repetitive tasks at Unox*
+
+**🚀 Status**: Production → SaaS platform development
+
+</td>
+<td width="50%">
+
+### 🧠 **AI TRANSPARENCY SUITE**
+**Demystifying Artificial Intelligence**
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c21ffd4-d2d7-4cc6-87f1-0187aa5678ca" width="60"/>
+</div>
+
+**🎯 Vision**: Making AI understandable for everyone
+
+**✨ Magic Features**:
+- 💬 Natural language AI explanations
+- 🎨 Visual no-code workflow builders  
+- 📚 Interactive learning experiences
+- 🔍 Transparent decision processes
+
+**💫 Impact**: *Bridging the digital divide through education*
+
+**🚀 Status**: R&D → Public platform launch 2025
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-## 📊 **DIGITAL IMPACT METRICS** 📊
+## 📊 **DIGITAL IMPACT DASHBOARD** 📊
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorenzozero&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B35&text_color=00FF41)
+![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorenzozero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B35&text_color=00FF41&custom_title=Lorenzo%27s%20Code%20Metrics)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorenzozero&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=FF6B35&currStreakLabel=00FF41)
+![Coding Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lorenzozero&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=FF6B35&fire=FF6B35&currStreakLabel=00FF41)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorenzozero&bg_color=0D1117&color=00FF41&line=FF6B35&point=00FF41&area=true&hide_border=true)
+</div>
+
+<div align="center">
+
+### 🎨 **CONTRIBUTION ACTIVITY**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorenzozero&bg_color=0D1117&color=00FF41&line=FF6B35&point=00FF41&area=true&hide_border=true&custom_title=Lorenzo%27s%20Innovation%20Timeline)
 
 </div>
 
 ---
 
 ```
-    ╔═══════════════════════════════════════════════╗
-    ║            🏆 TRANSFORMATION METRICS 🏆       ║
-    ╠═══════════════════════════════════════════════╣
-    ║ [✓] Lives Simplified Through Technology       ║
-    ║ [✓] Complex Systems Made Accessible           ║
-    ║ [✓] AI Democratization Advocate               ║
-    ║ [✓] Business Process Transparency Expert      ║
-    ║ [⚡] Digital Literacy Educator [ACTIVE]       ║
-    ║ [🎯] Community Tech Mentor [2025]             ║
-    ╚═══════════════════════════════════════════════╝
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                    🏆 TRANSFORMATION ACHIEVEMENTS 🏆             ║
+    ╠═══════════════════════════════════════════════════════════════════╣
+    ║ [✓] Digital Lives Simplified Through Innovation                  ║
+    ║ [✓] AI Made Accessible to Non-Technical Users                    ║
+    ║ [✓] Enterprise Security Architect & Implementation               ║
+    ║ [✓] Business Process Automation Specialist                       ║
+    ║ [⚡] Community Tech Educator & Digital Literacy Advocate         ║
+    ║ [🎯] International Conference Speaker [TARGET: 2025]             ║
+    ║ [🚀] AI Ethics & Transparency Research [ONGOING]                 ║
+    ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-## 🌐 **CONNECT FOR TRANSPARENCY** 🌐
+## 🌐 **LET'S BUILD THE FUTURE TOGETHER** 🌐
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="350">
 
+*Ready to turn complex challenges into elegant solutions?*
+
 ```bash
-# Open Communication Channels
-$ connect --transparent --helpful --innovative
+# Open collaboration channels
+$ connect --innovative --transparent --fun
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/lorenzo-garoffolo-%F0%9F%95%B8%EF%B8%8F-723867240/)
-[![Email](https://img.shields.io/badge/TRANSPARENT_CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:lorenzogaroffolocyber@gmail.com)
-[![GitHub](https://img.shields.io/badge/OPEN_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Lorenzozero)
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/lorenzo-garoffolo-%F0%9F%95%B8%EF%B8%8F-723867240/)
+[![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:lorenzogaroffolocyber@gmail.com)
+[![GitHub](https://img.shields.io/badge/Code_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Lorenzozero)
 
 </div>
 
@@ -232,31 +269,36 @@ $ connect --transparent --helpful --innovative
 
 <div align="center">
 
-## 🌟 **PHILOSOPHY OF DIGITAL TRANSFORMATION** 🌟
+## 🌟 **THE LORENZO MANIFESTO** 🌟
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│ "Technology should serve humanity, not complicate it.          │
-│                                                                 │
-│  My mission is simple:                                         │
-│  • Make the complex accessible to everyone                     │
-│  • Bring transparency to every digital interaction             │
-│  • Use AI to amplify human potential, not replace it          │
-│  • Secure the future while simplifying the present            │
-│                                                                 │
-│  Every line of code I write asks one question:                │
-│  'Does this make someone's life easier today?'                │
-│                                                                 │
-│  In a world of digital complexity,                             │
-│  I choose to be a bridge to simplicity."                      │
-│                                        - Lorenzo, 2025        │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│ "Technology should feel like magic, not a maze.                     │
+│                                                                     │
+│  🎯 My mission is beautifully simple:                              │
+│  • Transform complex systems into delightful experiences           │
+│  • Make AI as friendly as your favorite coffee shop barista       │
+│  • Build security that protects without getting in the way        │
+│  • Create automation that gives people time for what matters       │
+│                                                                     │
+│  💫 In a world drowning in digital complexity,                     │
+│     I choose to be a lighthouse of simplicity.                     │
+│                                                                     │
+│  🚀 Every project I touch asks one question:                       │
+│     'Will this make someone smile today?'                          │
+│                                                                     │
+│  Because at the end of the day, technology isn't about             │
+│  the code we write - it's about the lives we improve."             │
+│                                        - Lorenzo, Innovating 2025  │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-**🔐 `MISSION: TRANSPARENT TECH` - Simplifying Digital Life for Everyone 🔐**
+**🔐 `MISSION: JOYFUL TECHNOLOGY` - Where Security Meets Simplicity 🔐**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lorenzozero.Lorenzozero&left_color=orange&right_color=green&left_text=LIVES%20SIMPLIFIED)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lorenzozero.Lorenzozero&left_color=purple&right_color=cyan&left_text=LIVES%20TRANSFORMED)
+
+*Crafted with ❤️ and ☕ in Campodarsego, Italy*
 
 </div>
