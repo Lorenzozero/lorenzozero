@@ -13,27 +13,27 @@
   <pre align="center">L O R E N Z O</pre>
 </details>
 
-<!-- HERO: Typing + Ribbon (kept lightweight) -->
+<!-- HERO: Typing + Ribbon (WebP fallback, optimized) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=1900&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=Cybersecurity+•+AI+•+Automation;Designing+Trust+%26+Simplicity" alt="Animated header" />
-  <img src="https://i.imgur.com/2uG3YJW.gif" width="640" height="96" alt="Matrix rain" />
+  <!-- Using a lightweight WebP alternative to reduce size; provide GIF fallback link below -->
+  <picture>
+    <source srcset="https://files.catbox.moe/6i1m9w.webp" type="image/webp">
+    <img src="https://i.imgur.com/2uG3YJW.gif" width="640" height="96" alt="Matrix rain" />
+  </picture>
 </div>
 
-<!-- Quick links (mobile friendly) -->
+<!-- Quick links (mobile friendly) + Back to top anchors -->
 <p align="center">
   <a href="#-innovation-showcase">Projects</a> •
   <a href="#-digital-impact-dashboard">Metrics</a> •
   <a href="#-the-lorenzo-manifesto">Philosophy</a>
 </p>
 
-<!-- Security Quote -->
-<div align="center">
-<blockquote>
-  <i>In cybersecurity, we don't just build walls — we architect trust. Every vulnerability we find today prevents a crisis tomorrow. Security isn't about fear, it's about enabling fearless innovation.</i>
-</blockquote>
-</div>
-
 ---
+
+<!-- Back-to-top helper (place this id at top and links in sections) -->
+<a id="top"></a>
 
 ```ascii
     ┌──────────────────────────────────────────────────────────────┐
@@ -56,6 +56,9 @@
 
 </div>
 
+<!-- ITA block (copy bilingue) -->
+<p align="center"><i>[ITA] Creo automazioni e sistemi sicuri che rendono la tecnologia semplice per tutti.</i></p>
+
 ```
    ╔══════════════════════════════════════════════════════════════╗
    ║               🎯 DIGITAL IDENTITY MATRIX 🎯                  ║
@@ -72,22 +75,22 @@
 
 ## ⚡ **MY DIGITAL SUPERPOWERS** ⚡
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa6ce04f93c" width="400" alt="Cyber gif" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-9aa6ce04f93c" width="360" alt="Cyber gif" />
 
 </div>
 
-### 🛡️ **CYBERSECURITY FORTRESS**
-*Building digital trust, one secure system at a time*
+### 🛡️ **CYBERSECURITY FORTRESS**  
+[ITA] Sistemi che ispirano fiducia, un controllo alla volta.
 
 <div align="center">
 
 🎯 **Penetration Testing** | 🏰 **SOC Leadership** | 🚨 **Incident Response**  
-🔍 **OSINT Intelligence** | 📋 **Compliance Mastery** | ⚡ **Real-time Threat Hunting**
+🔍 **OSINT Intelligence** | 📋 **Compliance Mastery** | ⚡ **Threat Hunting**
 
 </div>
 
-### 🤖 **AI & AUTOMATION MAGIC**
-*Where artificial intelligence meets human intuition*
+### 🤖 **AI & AUTOMATION MAGIC**  
+[ITA] Automazioni intelligenti che liberano tempo e riducono complessità.
 
 <div align="center">
 
@@ -96,8 +99,8 @@
 
 </div>
 
-### 💻 **FULL-STACK WIZARDRY**
-*Crafting digital experiences that just work*
+### 💻 **FULL-STACK WIZARDRY**  
+[ITA] Esperienze digitali fluide, performanti e sicure.
 
 <div align="center">
 
@@ -109,11 +112,10 @@
 
 <div align="center">
 
-## 🚀 **INNOVATION SHOWCASE** 🚀
+## 🚀 **INNOVATION SHOWCASE** 🚀  
+[ITA] Progetti che trasformano idee in valore reale.
 
-*Where ideas become reality and complexity becomes clarity*
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300" alt="Projects gif" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="280" alt="Projects gif" />
 
 </div>
 
@@ -122,45 +124,33 @@
 <td width="50%">
 
 ### 📅 [**PLANICA**](https://github.com/Lorenzozero/planica)
-**Smart Calendar Revolution**
+**Smart Calendar Revolution**  
+[ITA] Calendario intelligente che elimina attriti di coordinamento.
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="60" alt="Planica icon" />
-</div>
+**✨ Highlights**:
+- 🧠 AI conflict resolution  
+- 🔄 Multi-platform sync
+- 📊 Meeting optimization
+- 🎨 UX intuitiva
 
-**🎯 Vision**: Transforming team collaboration through intelligent scheduling
-
-**✨ Magic Features**:
-- 🧠 AI-powered conflict resolution  
-- 🔄 Real-time multi-platform sync
-- 📊 Smart meeting optimization
-- 🎨 Intuitive user experience
-
-**💫 Impact**: *60% reduction in scheduling overhead*
-
-**🚀 Status**: Active Development → AI enhancement phase
+**Impact**: *-60% scheduling overhead*  
+[ITA] *-60% tempo perso in pianificazione*
 
 </td>
 <td width="50%">
 
 ### 💪 [**SICKFITPRO**](https://github.com/Lorenzozero/sickfitpro)
-**Wellness Democracy Platform**
+**Wellness Democracy Platform**  
+[ITA] Fitness accessibile, motivante e guidato dai dati.
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f1c98474-9b13-4d8e-a3cc-4e78c7f184ec" width="60" alt="SickFitPro icon" />
-</div>
-
-**🎯 Vision**: Making fitness accessible and enjoyable for everyone
-
-**✨ Magic Features**:
-- 🧠 Personalized AI coaching
-- 🎮 Gamified progress tracking
-- 📈 Transparent analytics
+**✨ Highlights**:
+- 🧠 AI coaching personalizzato
+- 🎮 Gamified progress
+- 📈 Analytics trasparenti
 - 🤝 Community challenges
 
-**💫 Impact**: *Democratizing personal training through technology*
-
-**🚀 Status**: Beta Release → Community features rollout
+**Impact**: *AI for inclusive training*  
+[ITA] *Allenamento inclusivo grazie all'AI*
 
 </td>
 </tr>
@@ -168,57 +158,48 @@
 <td width="50%">
 
 ### 🏢 **ENTERPRISE AUTOMATION**
-**Business Process Revolution**
+**Business Process Revolution**  
+[ITA] Automazioni per tagliare compiti ripetitivi e aumentare trasparenza.
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e81f7e75-8942-4e75-b0c1-d31a19af6e8d" width="60" alt="Automation icon" />
-</div>
+**✨ Highlights**:
+- 🔄 n8n multi-agent
+- 📊 Real-time BI
+- 🔐 Zero-trust security
+- 👥 Self-service portals
 
-**🎯 Vision**: Removing friction from every business workflow
-
-**✨ Magic Features**:
-- 🔄 n8n multi-agent orchestration
-- 📊 Real-time business intelligence  
-- 🔐 Zero-trust security architecture
-- 👥 Employee self-service portals
-
-**💫 Impact**: *80% automation of repetitive tasks at Unox*
-
-**🚀 Status**: Production → SaaS platform development
+**Impact**: *80% repetitive tasks automated*  
+[ITA] *Automazione fino all'80% dei task*
 
 </td>
 <td width="50%">
 
 ### 🧠 **AI TRANSPARENCY SUITE**
-**Demystifying Artificial Intelligence**
+**Demystifying AI**  
+[ITA] Strumenti per rendere l'AI comprensibile e verificabile.
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c21ffd4-d2d7-4cc6-87f1-0187aa5678ca" width="60" alt="AI transparency icon" />
-</div>
+**✨ Highlights**:
+- 💬 Natural language explainability
+- 🎨 No-code AI builder
+- 📚 Interactive learning
+- 🔍 Transparent decisions
 
-**🎯 Vision**: Making AI understandable for everyone
-
-**✨ Magic Features**:
-- 💬 Natural language AI explanations
-- 🎨 Visual no-code workflow builders  
-- 📚 Interactive learning experiences
-- 🔍 Transparent decision processes
-
-**💫 Impact**: *Bridging the digital divide through education*
-
-**🚀 Status**: R&D → Public platform launch 2025
+**Impact**: *Bridging the digital divide*  
+[ITA] *Colmare il divario digitale*
 
 </td>
 </tr>
 </table>
 
+<p align="right"><a href="#top">Back to top ↑</a></p>
+
 ---
 
 <div align="center">
 
-## 📊 **DIGITAL IMPACT DASHBOARD** 📊
+## 📊 **DIGITAL IMPACT DASHBOARD** 📊  
+[ITA] Metriche che raccontano impegno e crescita.
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400" alt="Impact gif" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="360" alt="Impact gif" />
 
 ![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lorenzozero&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=FF6B35&text_color=00FF41&custom_title=Lorenzo%27s%20Code%20Metrics)
 
@@ -226,54 +207,14 @@
 
 </div>
 
-<div align="center">
-
-### 🎨 **CONTRIBUTION ACTIVITY**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lorenzozero&bg_color=0D1117&color=00FF41&line=FF6B35&point=00FF41&area=true&hide_border=true&custom_title=Lorenzo%27s%20Innovation%20Timeline)
-
-</div>
-
----
-
-```
-    ╔═══════════════════════════════════════════════════════════════════╗
-    ║                    🏆 TRANSFORMATION ACHIEVEMENTS 🏆             ║
-    ╠═══════════════════════════════════════════════════════════════════╣
-    ║ [✓] Digital Lives Simplified Through Innovation                  ║
-    ║ [✓] AI Made Accessible to Non-Technical Users                    ║
-    ║ [✓] Enterprise Security Architect & Implementation               ║
-    ║ [✓] Business Process Automation Specialist                       ║
-    ║ [⚡] Community Tech Educator & Digital Literacy Advocate         ║
-    ║ [🎯] International Conference Speaker [TARGET: 2025]             ║
-    ║ [🚀] AI Ethics & Transparency Research [ONGOING]                 ║
-    ╚═══════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-## 🌐 **LET'S BUILD THE FUTURE TOGETHER** 🌐
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="350" alt="Contact gif" />
-
-*Ready to turn complex challenges into elegant solutions?*
-
-```bash
-# Open collaboration channels
-$ connect --innovative --transparent --fun
-```
-
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/lorenzo-garoffolo-%F0%9F%95%B8%EF%B8%8F-723867240/)
-[![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:lorenzogaroffolocyber@gmail.com)
-[![GitHub](https://img.shields.io/badge/Code_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Lorenzozero)
-
-</div>
+<p align="right"><a href="#top">Back to top ↑</a></p>
 
 ---
 
 <div align="center">
 
-## 🌟 **THE LORENZO MANIFESTO** 🌟
+## 🌟 **THE LORENZO MANIFESTO** 🌟  
+[ITA] Tecnologia che libera tempo e crea fiducia.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -293,7 +234,8 @@ $ connect --innovative --transparent --fun
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake graph" />
 
-**🔐 `MISSION: JOYFUL TECHNOLOGY` - Where Security Meets Simplicity 🔐**
+**🔐 `MISSION: JOYFUL TECHNOLOGY` - Where Security Meets Simplicity 🔐**  
+[ITA] Sicurezza che abilita innovazione, non che la frena.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lorenzozero.Lorenzozero&left_color=purple&right_color=cyan&left_text=LIVES%20TRANSFORMED)
 
