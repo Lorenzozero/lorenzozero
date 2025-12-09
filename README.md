@@ -66,7 +66,7 @@
    ║  Name: Lorenzo Garoffolo                                     ║
    ║  Role: Cyber Guardian & Innovation Architect                  ║
    ║  Superpower: Making Complex Tech Feel Simple 🪄               ║
-   ║  Location: Campodarsego, Italy 🇮🇹                            ║
+   ║  Location:  Italy 🇮🇹                                           ║
    ║  Status: ONLINE & Crafting Digital Magic ✨                   ║
    ║  Impact Level: TRANSFORMATIONAL 🌟                           ║
    ╚══════════════════════════════════════════════════════════════╝
