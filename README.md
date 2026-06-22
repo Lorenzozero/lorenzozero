@@ -44,9 +44,8 @@
     │  > cat ~/.mission                                            │
     │  "Turning complex technology into delightful experiences.    │
     │   Making AI accessible, security transparent, and            │
-    │   automation effortless for every human I encounter."       │
-    │  > pwd                                                       │
-    │  /home/lorenzo/innovation_lab/unox_spa/digital_transformation │
+    │   automation effortless for every human I encounter."        │
+    │                                                              │
     └──────────────────────────────────────────────────────────────┘
 ```
 
