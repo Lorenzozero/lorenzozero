@@ -61,12 +61,12 @@
 
 ```
    ╔══════════════════════════════════════════════════════════════╗
-   ║               🎯 DIGITAL IDENTITY MATRIX 🎯                  ║
+   ║               🎯 DIGITAL IDENTITY MATRIX 🎯                 ║
    ║  Name: Lorenzo Garoffolo                                     ║
-   ║  Role: Cyber Guardian & Innovation Architect                  ║
-   ║  Superpower: Making Complex Tech Feel Simple 🪄               ║
-   ║  Location:  Italy 🇮🇹                                           ║
-   ║  Status: ONLINE & Crafting Digital Magic ✨                   ║
+   ║  Role: Cyber Guardian & Innovation Architect                 ║
+   ║  Superpower: Making Complex Tech Feel Simple 🪄              ║
+   ║  Location:  Italy 🇮🇹                                          ║
+   ║  Status: ONLINE & Crafting Digital Magic ✨                  ║
    ║  Impact Level: TRANSFORMATIONAL 🌟                           ║
    ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -197,7 +197,6 @@
 <div align="center">
 
 ## 📊 **DIGITAL IMPACT DASHBOARD** 📊  
-[ITA] Metriche che raccontano impegno e crescita.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="360" alt="Impact gif" />
 
